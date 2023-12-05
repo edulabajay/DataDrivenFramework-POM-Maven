@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-25T11:26:02 IST" name="com.testpages.TestMethod_Googlesearch" finished-at="2023-08-25T11:26:05 IST" duration-ms="3360">
+    <groups>
+    </groups>
+    <test started-at="2023-08-25T11:26:02 IST" name="Command line test" finished-at="2023-08-25T11:26:05 IST" duration-ms="3360">
+      <class name="com.testpages.TestMethod_Googlesearch">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:com.testpages.TestMethod_Googlesearch@7494f96a]" started-at="2023-08-25T11:26:02 IST" name="beforetest" finished-at="2023-08-25T11:26:05 IST" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Verify_searchOption()[pri:0, instance:com.testpages.TestMethod_Googlesearch@7494f96a]" started-at="2023-08-25T11:26:05 IST" name="Verify_searchOption" finished-at="2023-08-25T11:26:05 IST" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_searchOption -->
+        <test-method signature="Verify_fb_signup()[pri:1, instance:com.testpages.TestMethod_Googlesearch@7494f96a]" started-at="2023-08-25T11:26:05 IST" name="Verify_fb_signup" finished-at="2023-08-25T11:26:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_fb_signup -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:com.testpages.TestMethod_Googlesearch@7494f96a]" started-at="2023-08-25T11:26:05 IST" name="aftertest" finished-at="2023-08-25T11:26:05 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.testpages.TestMethod_Googlesearch -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.testpages.TestMethod_Googlesearch -->
+</testng-results>
